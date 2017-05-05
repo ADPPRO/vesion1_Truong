@@ -30,7 +30,8 @@ Sach::Sach(string s)
 
 ostream &operator << (ostream &os, Sach sach2)
 {
-	os << sach2.masach <<"|"<<sach2.tensach << "|" << sach2.tentacgia << "|" << sach2.namxb << "|" << sach2.dongia << "|" << sach2.tinhtrang << "|" << sach2.ngonngu << "|";
+	os << sach2.masach <<"|"<<sach2.tensach << "|" << sach2.tentacgia << "|" << sach2.namxb << "|" 
+	 << sach2.dongia << "|" << sach2.tinhtrang << "|" << sach2.ngonngu << "|";
 	return os;
 }
 
