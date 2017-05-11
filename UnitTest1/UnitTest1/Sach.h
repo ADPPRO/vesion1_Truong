@@ -35,6 +35,6 @@ public:
 	void setDongia(string dongia);
 	void setTentacgia(string tentacgia);
 	void setNgonngu(string ngonngu);
-
+	//void truong()
 };
 

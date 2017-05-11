@@ -102,4 +102,6 @@ string Sach::getSoluong()
 	return soluong;
 }
 
-
+//void Sach::truong() {
+//	cout<< "oke";
+//}

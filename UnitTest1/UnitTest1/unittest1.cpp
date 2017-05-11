@@ -30,7 +30,7 @@ namespace UnitTest1
 		TEST_METHOD(TEST_getNamxb)
 		{
 			Sach a;
-			a.setNamxb("1999");
+			a.setNamxb("1898");
 			string nam = "1999";
 			string nam1 = "2000";
 			Assert::AreEqual(a.getNamxb(), nam);
